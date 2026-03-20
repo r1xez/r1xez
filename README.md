@@ -41,7 +41,7 @@ I'm a developer currently studying Computer Science at **VNTU**  and   **IT Step
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r1xez&theme=radical" alt="Profile Details Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r1xez&theme=github_dark" alt="Profile Details Summary" />
 </div>
 
 ---
