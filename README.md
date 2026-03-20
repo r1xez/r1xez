@@ -1,6 +1,6 @@
 # Hi there, I'm Viacheslav Kulbachuk! 👋
 
-I'm a developer currently studying Computer Science at **VNTU( Vinnytsia National Technical University)**  and   **IT Step Academy**. 
+I'm a developer currently studying Computer Science at **VNTU(Vinnytsia National Technical University)**  and   **IT Step Academy**. 
 
 
 
