@@ -19,15 +19,9 @@ I'm a developer currently studying Computer Science at **VNTU(Vinnytsia National
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r1xez" alt="r1xez trophies" />
-  </a>
-</div>
+
 
 ---
 
