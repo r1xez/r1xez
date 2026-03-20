@@ -25,7 +25,7 @@ I'm a developer currently studying Computer Science at **VNTU**  and   **IT Step
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r1xez&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+   [![trophy](https://github-profile-trophy.vercel.app/?username=r1xez)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </div>
 
