@@ -25,7 +25,7 @@ I'm a developer currently studying Computer Science at **VNTU**  and   **IT Step
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   [![trophy](https://github-profile-trophy.vercel.app/?username=r1xez)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=r1xez" alt="r1xez trophies" />
   </a>
 </div>
 
@@ -34,9 +34,8 @@ I'm a developer currently studying Computer Science at **VNTU**  and   **IT Step
 ### 📊 GitHub Stats & Summary Cards
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r1xez" alt="r1xez trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=r1xez&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1xez&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
