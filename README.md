@@ -28,10 +28,7 @@ I'm a developer currently studying Computer Science at **VNTU(Vinnytsia National
 
 ### 📊 GitHub Stats & Summary Cards
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1xez&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1xez&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+
 
 <br />
 
